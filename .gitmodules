@@ -1,0 +1,3 @@
+[submodule "osheet-js"]
+	path = osheet-js
+	url = https://github.com/markuskimius/osheet-js.git
